@@ -1,2 +1,2 @@
-# Projects
-Schematics and code for projects I have created
+# Hi Welcome to my Projects!
+Please visit other branches to find projects done in highschool and (hopefully) beyond.
