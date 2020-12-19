@@ -1,0 +1,1 @@
+make -fmakefile clean SHELL=cmd
